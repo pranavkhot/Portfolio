@@ -15,7 +15,7 @@ const Contacts = () => {
                 <a className="instagram" href="https://www.instagram.com" target="_blank" rel="noopener noreferrer"><RiInstagramFill/></a>
                 <a className="twitter" href="https://twitter.com/Pranavkhot_345" target="_blank" rel="noopener noreferrer"><FaTwitter/></a>
                 <a className="github" href="https://github.com/pranavkhot" target="_blank" rel="noopener noreferrer"><FaGithub/></a>
-                <a className="linkedin" href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer"><FaLinkedin/></a>
+                <a className="linkedin" href="https://www.linkedin.com/in/pranav-khot-5692371a4" target="_blank" rel="noopener noreferrer"><FaLinkedin/></a>
                 <a className="facebook" href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"><FaFacebookSquare/></a>
                 
             </section>
